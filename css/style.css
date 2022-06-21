@@ -582,7 +582,7 @@ iframe{
 	}
 	
 	.home h1{
-		margin-top: 71vh; /* Remove this for 100% view of each menu*/
+		margin-top: 69vh; /* Remove this for 100% view of each menu*/
 		font-size:7.6vh;
 		text-transform: uppercase;
 		text-shadow: 0 15px 20px #000000b0;
